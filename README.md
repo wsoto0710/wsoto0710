@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer
 -----------------
 
-* 🌍  I'm based in Japan
+* 🌍  I'm based in UK
 * ✉️  You can contact me at [wsoto0710@gmail.com](mailto:wsoto0710@gmail.com)
 * 📚  I'm learning electron.
 * 🐈  I love cats, dogs and rabbitts!
